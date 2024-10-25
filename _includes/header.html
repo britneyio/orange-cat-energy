@@ -1,10 +1,10 @@
 <h2 class="title">{{ site.title }}</h2>
 <nav>
-    <a href="{{ site.url }}">home</a> 
-    <a href="{{ site.url }}{{ site.blog }}">blog</a>
+    <a href="{{ site.baseurl }}">home</a> 
+    <a href="{{ site.baseurl }}{{ site.blog }}">blog</a>
 
     {% for link in site.links %}
-        <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
+        <a href="{{ site.baseurl }}{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
     
     {% for link in site.special_links %}
