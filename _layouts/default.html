@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+    <main>
+
+        {% include header.html %}
+
+        <h1> Hi, I'm Ise</h1>
+<p>I work in the fields of data analysis and full-stack development.
+I research in the fields of privacy, ai safety, and robotics.</p>
+
+<p>I yap about retro and non retro media, privacy, and whatever I currently find interesting.</p>
+<h2>Recent writings</h2>
+<ul>
+{% for post in site.posts limit:3 %}
+         <li>  <span>
+                <i>
+                    <time datetime="2022-01-28" pubdate="">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                    </time>
+                </i>
+            </span>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+            {% endfor %}
+        </ul>
+    </main>
+    {{ content }}
+    {% include footer.html %}
+
+</body>
+</html>
