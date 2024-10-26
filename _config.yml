@@ -46,7 +46,7 @@ defaults:
     values:
       layout: tagged
 
-baseurl: "/orange-cat-energy/"
+baseurl: "/orange-cat-energy"
 permalink: /blog/:slug
 timezone: America/New_York
 future: false
