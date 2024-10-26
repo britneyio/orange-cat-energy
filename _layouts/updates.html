@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+    <main>
+
+        {% include header.html %}
+
+
+        {% assign updates = site.updates %}
+
+            {% for update in updates reversed %}
+           <p> {{ update.date | date: "%-d %B %Y"  }}</p>
+            <p style="display:list-item; margin-left:50px;">
+                {{ update.title }},
+                {{ update.description }},
+                {{ update.content | remove: '<p>' | remove: '</p>' }}
+            </p>
+
+            
+            {% endfor %}
+
+
+
+    </main>
+
+    {% include footer.html %}
+
+</body>
+</html>
