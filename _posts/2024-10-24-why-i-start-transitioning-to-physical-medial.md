@@ -12,9 +12,9 @@ tags: [general]
 With companies now enforcing accounts to be within a household. A
 Netflix household used to be anyone using that account information. A
 Netflix household is now users using a Netflix account under the same
-Wi-Fi. I am no longer under the same Wi-Fi for some of the accounts that
+Wi-Fi. I am no longer under the same Wi-Fi for most of the accounts that
 I hold. Once, I started realizing the services that I use, the costs
-started adding up. Let's say Netflix, Hulu, Disney, Max, and Spotify,
+started adding up. Let's say Netflix, Hulu, Disney, Max, and Spotify:
 
 Netflix (no ads) - \$15.49
 
@@ -25,46 +25,51 @@ Spotify (no ads) - \$11.99
 = \$57.47
 
 Not even including the Peacock, DirectTV, Paramount Plus, Amazon Prime,
-and probably more that I don't know about. (YouTube Premium)
+and probably more that I don't know about. Everything is trying to be a
+subscription service these days.
 
-I like to spend my money in the amount of meals I could buy instead. I
-could buy 4 CAVA bowls instead and my personal opinion is more worth it.
+I like to spend my money on food and experiences. I could buy 4 CAVA
+bowls or go see two movies in theatres.
 
 ### 2.  **Why pay for a subscription when it is not guaranteed to have your favorite content forever?**
 
 Losses:
 
-Community from Netflix
+-   Community (Netflix)
 
-The Office from Netflix
+-   The Office (Netflix)
 
-Shark boy and lava girl Netflix
+-   Shark Boy and Lava Girl (Netflix)
 
-Futurama Netflix
+-   Futurama (Netflix)
 
 Maybe this is a Netflix problem, or maybe I mostly use Netflix, but I've
-also seen this happen on Spotify as well
+also seen this happen on Spotify as well.
 
-Hey Daze on Spotify, lost around 30-40 songs
+My most recent example is Dumb by The Hey Daze on Spotify, not
+disappearing but greyed out in my playlist. And on one of my biggest
+playlists, I noticed I lost a few more songs. There are multitude of
+reasons this happens: music license expiring, an artist revoking their
+music from the platform, songs banned/restricted in some places, etc.
 
-They also have some great shows that I love:
+While I am discounting these platforms, that have produced some of my
+favorite pieces of media:
 
-Bridgerton (Queen Charlotte)
+-   Bridgerton (Queen Charlotte)
 
-BoJack Horsemen
+-   BoJack Horsemen
 
-Ultimatum
+-   Ultimatum
 
-Arcane
+-   Arcane
 
-and more
+-   and more
 
-I don't want to discount these platforms for the amazing shows they have
-created and that they deserve the credit in putting out amazing shows.
-Some of these shows I will shell out for some DVDs, and others I would
-not. As time goes on though, for every good show they create, they
-create 10-20 bad ones that create a lot noise resulting in an unusable
-and useless platform.
+These are some of amazing shows they have created and that they deserve
+the credit for them. Some of these shows I will shell out for some DVDs,
+and others I would not. As time goes on though, for every good show they
+create, they create 10-20 bad ones that create a lot noise resulting in
+an unusable and useless platform.
 
 ### 3.  **I don't want to rely on other platforms that may die and take my data with it.**
 
@@ -76,7 +81,7 @@ Vine
 
 If you didn't save everything on your own computer, everything that you
 posted will have been lost. Even if you saved every photo and song you
-had on MySpace, the profile that you created is now lost.
+had on MySpace, the special profile that you created is now lost.
 
 ### 4.  **Privacy concerns**
 
@@ -86,8 +91,8 @@ All of our data is sold to other companies.
 
 I have the attention span that is between a puppy and a goldfish. No
 matter how bad I know watching short term content is, my brain frigging
-loves it. I had Tiktok, but after deleting it, I haven't really craved
-it again.
+loves it. Surprisingly though, I deleted TikTok a few years ago, and
+haven't really craved it again.
 
 [Reddit]()
 
@@ -108,8 +113,8 @@ added Reels. I've just added a blocker for reels though.
 
 YouTube shorts. Installed a blocker for that as well. Even with the long
 term content, it is still a major time sunk though. If I replaced the
-amount of YouTube I watch with something productive. I would actually be
-produce things.
+amount of YouTube I watch with something productive. I would actually
+produce things---like this blog post!
 
 [Streaming Services]()
 

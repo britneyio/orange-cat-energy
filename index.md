@@ -8,9 +8,9 @@ I work on user focused applications, crafting frontend and backend solutions. Cu
 
 Check my [resume](http://closetcapsule.me/portfolio/){:target="_blank"}
 
-## Get in touch
+## Get in touch 
 [Email](mailto:britneyiseo@gmail.com)
-[Linkedin](https://linkedin.com/in/iseokhiria)
+<!-- [Linkedin](https://linkedin.com/in/iseokhiria) -->
 
 
 
